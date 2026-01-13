@@ -150,7 +150,7 @@ If you intend to rely on it in a vehicle, use a Stable release and review the St
 
 ## Getting Started
 
-Documentation for installation, configuration, and supported hardware will live in the `docs/` directory.
+Start with [`INSTALLATION.md`](docs/INSTALLATION.md) for first-time setup and safe access to the dashboard.
 
 If you are evaluating the system, start with the Development channel.
 
