@@ -98,11 +98,23 @@ This project maintains **two release channels**:
 
 Stable releases are governed by a formal **Stability Promise**.
 
-📄 Read more:
+---
 
-* [`STABILITY_PROMISE.md`](docs/STABILITY_PROMISE.md)
-* [`LICENSING_AND_ACCESS.md`](docs/LICENSING_AND_ACCESS.md)
-* [`PRICING_PHILOSOPHY.md`](docs/PRICING_PHILOSOPHY.md)
+## Documentation Map
+
+This repository is intentionally documentation-first.
+
+Key documents:
+
+- [`INSTALLATION.md`](docs/INSTALLATION.md) — how to get up and running safely
+- [`TUNING_MODEL.md`](docs/TUNING_MODEL.md) — how tuning works, and why
+- [`STABILITY_PROMISE.md`](docs/STABILITY_PROMISE.md) — guarantees for Stable releases
+- [`RELEASE_CHANNELS.md`](docs/RELEASE_CHANNELS.md) — how Development and Stable differ
+- [`LICENSING_AND_ACCESS.md`](docs/LICENSING_AND_ACCESS.md) — access model and scope
+- [`PRICING_PHILOSOPHY.md`](docs/PRICING_PHILOSOPHY.md) — why stability costs money
+- [`FAQ.md`](docs/FAQ.md) — common questions and expectations
+
+If behavior and documentation ever disagree, the documentation is considered authoritative.
 
 ---
 
