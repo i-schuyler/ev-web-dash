@@ -120,6 +120,8 @@ If behavior and documentation ever disagree, the documentation is considered aut
 
 ## Philosophy
 
+This project intentionally avoids automatic tuning, cloud dependencies, and opaque optimization logic.
+
 This project refuses to become:
 
 * Buggy
