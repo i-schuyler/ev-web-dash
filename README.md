@@ -138,8 +138,13 @@ The software that configures them should behave accordingly.
 
 This project is under active development.
 
-Public Development builds are available.
-Stable releases are published separately under license.
+- The **Development channel** is public and evolving
+- Development builds may change behavior and interfaces
+- **Stable releases** are versioned, licensed, and conservative
+
+If you are evaluating the system or contributing, start with Development.
+
+If you intend to rely on it in a vehicle, use a Stable release and review the Stability Promise first.
 
 ---
 
